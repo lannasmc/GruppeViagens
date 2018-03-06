@@ -261,3 +261,40 @@ h1 {
     font-weight: bold;
 }
 
+/*
+ * MAIN CURIOSIDADES
+ */
+
+.contato {
+     background-color: #F4F3F2;
+ }
+
+.contato h2 {
+    margin: 0 auto;
+    width: 220px;
+    text-align: center;
+ }
+
+ /*
+  * MAIN NEWSLETTER
+  */
+
+.newsletter {
+    background-color: #FFDE69;
+    padding: 20px;
+    text-align: center;
+  }
+
+.newsletter h2 {
+    font-size: 45px;
+    color: #182716;
+  }
+
+.newsletter div form :nth-child(2) {
+    text-decoration: none;
+    color: white;
+    background: #D92D19;
+    border-radius: 4px;
+    display: inline-block;
+    font-size: 20px;
+}
